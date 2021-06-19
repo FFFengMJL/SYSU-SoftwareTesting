@@ -1,4 +1,5 @@
 # SYSU-SoftwareTesting
+
 中山大学2021年软件测试，老师蔡国杨
 
 ## 作业目录
@@ -9,3 +10,5 @@
 4. [Chap.2 Assignment.4](004/004.md)
 5. [Chap.3 Assignment.5](005/005.md)
 6. [Chap.4 Assignment.6](006/006.md)
+7. [Chap.5 Assignment.7](007/007.md)
+8. [Chap.5 Assignment.8](008/008.md)
