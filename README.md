@@ -1,8 +1,10 @@
 # SYSU-SoftwareTesting
 
-中山大学2021年软件测试，老师蔡国扬
+> 中山大学2021年软件测试，老师蔡国扬
 
-## 作业目录
+完整课件下载请[点击此处](https://github.com/FFFengMJL/SYSU-SoftwareTesting/releases/tag/1.0.0)
+
+## 目录
 
 1. [Chap.1 Assignment.1](./001/001.md)
 2. [Chap.1 Assignment.2](002/002.md)
